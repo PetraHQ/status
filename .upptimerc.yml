@@ -4,10 +4,16 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Backend API
-    url: https://petra-staging.herokuapp.com/
+    url: https://api.thepetra.co/
+    icon: https://petra-merchant.vercel.app/favicon.ico
+  - name: Dashboard
+    url: https://dashboard.thepetra.co/
+    icon: https://petra-merchant.vercel.app/favicon.ico
+  - name: Landing
+    url: https://thepetra.co/
     icon: https://petra-merchant.vercel.app/favicon.ico
   - name: Petra Documentation
-    url: https://docs.petra.africa/
+    url: https://docs.thepetra.co//
     icon: https://petra-merchant.vercel.app/favicon.ico
 assignees: # Users to assign downtime issues (optional)
   - toluwaanimi
