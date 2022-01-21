@@ -13,7 +13,7 @@ sites:
     url: https://thepetra.co/
     icon: https://petra-merchant.vercel.app/favicon.ico
   - name: Petra Documentation
-    url: https://docs.thepetra.co//
+    url: https://docs.thepetra.co/
     icon: https://petra-merchant.vercel.app/favicon.ico
 assignees: # Users to assign downtime issues (optional)
   - toluwaanimi
