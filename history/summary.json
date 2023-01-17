@@ -5,15 +5,15 @@
     "icon": "https://petra-merchant.vercel.app/favicon.ico",
     "slug": "backend-api",
     "status": "up",
-    "uptime": "83.29%",
+    "uptime": "83.31%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "78.80%",
-    "time": 346,
-    "timeDay": 360,
-    "timeWeek": 408,
-    "timeMonth": 387,
+    "uptimeYear": "79.08%",
+    "time": 347,
+    "timeDay": 232,
+    "timeWeek": 379,
+    "timeMonth": 380,
     "timeYear": 369,
     "dailyMinutesDown": {
       "2022-11-18": 105,
@@ -96,8 +96,7 @@
       "2022-01-21": 1440,
       "2022-01-20": 1440,
       "2022-01-19": 1440,
-      "2022-01-18": 1440,
-      "2022-01-17": 1440
+      "2022-01-18": 1440
     }
   },
   {
@@ -106,18 +105,19 @@
     "icon": "https://petra-merchant.vercel.app/favicon.ico",
     "slug": "dashboard",
     "status": "down",
-    "uptime": "40.26%",
+    "uptime": "40.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "20.43%",
+    "uptimeYear": "20.15%",
     "time": 169,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 122,
+    "timeYear": 123,
     "dailyMinutesDown": {
-      "2023-01-16": 86,
+      "2023-01-17": 85,
+      "2023-01-16": 1440,
       "2023-01-15": 1440,
       "2023-01-14": 1440,
       "2023-01-13": 1440,
@@ -423,9 +423,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.49%",
     "time": 360,
-    "timeDay": 357,
+    "timeDay": 318,
     "timeWeek": 405,
-    "timeMonth": 363,
+    "timeMonth": 364,
     "timeYear": 373,
     "dailyMinutesDown": {
       "2022-03-31": 35,
@@ -456,15 +456,15 @@
     "icon": "https://petra-merchant.vercel.app/favicon.ico",
     "slug": "petra-documentation",
     "status": "up",
-    "uptime": "74.68%",
+    "uptime": "74.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.48%",
+    "uptimeYear": "98.75%",
     "time": 639,
-    "timeDay": 644,
-    "timeWeek": 688,
-    "timeMonth": 648,
+    "timeDay": 309,
+    "timeWeek": 630,
+    "timeMonth": 628,
     "timeYear": 720,
     "dailyMinutesDown": {
       "2022-08-24": 159,
@@ -480,8 +480,7 @@
       "2022-01-21": 413,
       "2022-01-20": 1440,
       "2022-01-19": 1440,
-      "2022-01-18": 1440,
-      "2022-01-17": 1440
+      "2022-01-18": 1440
     }
   }
 ]
