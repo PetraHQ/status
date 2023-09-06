@@ -1,7 +1,7 @@
 url: https://dashboard.thepetra.co/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-09-06T13:02:02.209Z
+status: up
+code: 200
+responseTime: 74
+lastUpdated: 2023-09-06T14:03:31.488Z
 startTime: 2021-09-16T20:20:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
