@@ -1,7 +1,7 @@
 [
   {
     "name": "Backend API",
-    "url": "https://api.thepetra.co/",
+    "url": "https://www.google.com/",
     "icon": "https://petra-merchant.vercel.app/favicon.ico",
     "slug": "backend-api",
     "status": "down",
@@ -162,7 +162,7 @@
   },
   {
     "name": "Dashboard",
-    "url": "https://dashboard.thepetra.co/",
+    "url": "https://www.google.com/",
     "icon": "https://petra-merchant.vercel.app/favicon.ico",
     "slug": "dashboard",
     "status": "down",
@@ -546,7 +546,7 @@
   },
   {
     "name": "Landing",
-    "url": "https://thepetra.co/",
+    "url": "https://www.google.com/",
     "icon": "https://petra-merchant.vercel.app/favicon.ico",
     "slug": "landing",
     "status": "down",
@@ -674,7 +674,7 @@
   },
   {
     "name": "Petra Documentation",
-    "url": "https://docs.thepetra.co/",
+    "url": "https://www.google.com/",
     "icon": "https://petra-merchant.vercel.app/favicon.ico",
     "slug": "petra-documentation",
     "status": "down",
