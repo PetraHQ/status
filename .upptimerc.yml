@@ -4,16 +4,16 @@ repo: upptime # The name of this repository
 
 sites:
   - name: Backend API
-    url: https://api.thepetra.co/
+    url: https://www.google.com/
     icon: https://petra-merchant.vercel.app/favicon.ico
   - name: Dashboard
-    url: https://dashboard.thepetra.co/
+    url: https://www.google.com/
     icon: https://petra-merchant.vercel.app/favicon.ico
   - name: Landing
-    url: https://thepetra.co/
+    url: https://www.google.com/
     icon: https://petra-merchant.vercel.app/favicon.ico
   - name: Petra Documentation
-    url: https://docs.thepetra.co/
+    url: https://www.google.com/
     icon: https://petra-merchant.vercel.app/favicon.ico
 assignees: # Users to assign downtime issues (optional)
   - toluwaanimi
