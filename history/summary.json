@@ -5,13 +5,13 @@
     "icon": "https://petra-merchant.vercel.app/favicon.ico",
     "slug": "backend-api",
     "status": "up",
-    "uptime": "80.59%",
+    "uptime": "80.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "90.41%",
-    "time": 178,
-    "timeDay": 93,
+    "uptimeYear": "90.69%",
+    "time": 177,
+    "timeDay": 87,
     "timeWeek": 104,
     "timeMonth": 119,
     "timeYear": 114,
@@ -51,8 +51,7 @@
       "2023-08-09": 1440,
       "2023-08-08": 1440,
       "2023-08-07": 1440,
-      "2023-08-06": 1440,
-      "2023-08-05": 1440
+      "2023-08-06": 1440
     }
   },
   {
@@ -61,13 +60,13 @@
     "icon": "https://petra-merchant.vercel.app/favicon.ico",
     "slug": "dashboard",
     "status": "up",
-    "uptime": "50.12%",
+    "uptime": "50.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "90.45%",
+    "uptimeYear": "90.73%",
     "time": 80,
-    "timeDay": 49,
+    "timeDay": 51,
     "timeWeek": 62,
     "timeMonth": 83,
     "timeYear": 80,
@@ -107,8 +106,7 @@
       "2023-08-09": 1440,
       "2023-08-08": 1440,
       "2023-08-07": 1440,
-      "2023-08-06": 1440,
-      "2023-08-05": 1440
+      "2023-08-06": 1440
     }
   },
   {
@@ -117,15 +115,15 @@
     "icon": "https://petra-merchant.vercel.app/favicon.ico",
     "slug": "landing",
     "status": "up",
-    "uptime": "89.66%",
+    "uptime": "89.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "90.43%",
-    "time": 145,
-    "timeDay": 53,
-    "timeWeek": 63,
-    "timeMonth": 78,
+    "uptimeYear": "90.70%",
+    "time": 144,
+    "timeDay": 38,
+    "timeWeek": 60,
+    "timeMonth": 77,
     "timeYear": 78,
     "dailyMinutesDown": {
       "2024-07-15": 19,
@@ -163,8 +161,7 @@
       "2023-08-09": 1440,
       "2023-08-08": 1440,
       "2023-08-07": 1440,
-      "2023-08-06": 1440,
-      "2023-08-05": 1440
+      "2023-08-06": 1440
     }
   },
   {
@@ -173,14 +170,14 @@
     "icon": "https://petra-merchant.vercel.app/favicon.ico",
     "slug": "petra-documentation",
     "status": "up",
-    "uptime": "77.95%",
+    "uptime": "77.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "90.43%",
-    "time": 256,
-    "timeDay": 66,
-    "timeWeek": 65,
+    "uptimeYear": "90.71%",
+    "time": 253,
+    "timeDay": 40,
+    "timeWeek": 64,
     "timeMonth": 87,
     "timeYear": 99,
     "dailyMinutesDown": {
@@ -219,8 +216,7 @@
       "2023-08-09": 1440,
       "2023-08-08": 1440,
       "2023-08-07": 1440,
-      "2023-08-06": 1440,
-      "2023-08-05": 1440
+      "2023-08-06": 1440
     }
   }
 ]
