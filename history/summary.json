@@ -5,20 +5,19 @@
     "icon": "https://petra-merchant.vercel.app/favicon.ico",
     "slug": "backend-api",
     "status": "up",
-    "uptime": "81.21%",
+    "uptime": "81.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 113,
-    "timeDay": 98,
-    "timeWeek": 88,
-    "timeMonth": 119,
+    "timeDay": 207,
+    "timeWeek": 106,
+    "timeMonth": 120,
     "timeYear": 111,
     "dailyMinutesDown": {
       "2024-07-15": 19,
-      "2024-05-01": 34,
-      "2023-09-22": 18
+      "2024-05-01": 34
     }
   },
   {
@@ -27,20 +26,19 @@
     "icon": "https://petra-merchant.vercel.app/favicon.ico",
     "slug": "dashboard",
     "status": "up",
-    "uptime": "52.30%",
+    "uptime": "52.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 78,
-    "timeDay": 52,
-    "timeWeek": 50,
+    "timeDay": 151,
+    "timeWeek": 64,
     "timeMonth": 68,
     "timeYear": 74,
     "dailyMinutesDown": {
       "2024-07-15": 19,
-      "2024-05-01": 34,
-      "2023-09-22": 18
+      "2024-05-01": 34
     }
   },
   {
@@ -49,20 +47,19 @@
     "icon": "https://petra-merchant.vercel.app/favicon.ico",
     "slug": "landing",
     "status": "up",
-    "uptime": "90.11%",
+    "uptime": "90.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 77,
-    "timeDay": 54,
-    "timeWeek": 59,
-    "timeMonth": 72,
+    "timeDay": 209,
+    "timeWeek": 75,
+    "timeMonth": 73,
     "timeYear": 72,
     "dailyMinutesDown": {
       "2024-07-15": 19,
-      "2024-05-01": 34,
-      "2023-09-22": 18
+      "2024-05-01": 34
     }
   },
   {
@@ -71,20 +68,19 @@
     "icon": "https://petra-merchant.vercel.app/favicon.ico",
     "slug": "petra-documentation",
     "status": "up",
-    "uptime": "78.87%",
+    "uptime": "78.89%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 95,
-    "timeDay": 52,
-    "timeWeek": 51,
-    "timeMonth": 63,
-    "timeYear": 80,
+    "timeDay": 216,
+    "timeWeek": 73,
+    "timeMonth": 64,
+    "timeYear": 81,
     "dailyMinutesDown": {
       "2024-07-15": 19,
-      "2024-05-01": 34,
-      "2023-09-22": 18
+      "2024-05-01": 34
     }
   }
 ]
